@@ -1,6 +1,8 @@
 @import 'tailwindcss';
 
 @theme {
+  --font-sans: 'Nunito', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif;
+
   --color-primary-50: #f0fdf4;
   --color-primary-100: #dcfce7;
   --color-primary-200: #bbf7d0;
@@ -36,4 +38,9 @@
   --color-accent-800: #92400e;
   --color-accent-900: #78350f;
   --color-accent-950: #451a03;
+}
+
+.bg-natillera-pattern {
+  background-image: radial-gradient(circle at 1px 1px, rgba(5, 46, 22, 0.14) 1.5px, transparent 0);
+  background-size: 22px 22px;
 }
