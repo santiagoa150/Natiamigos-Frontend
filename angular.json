@@ -21,7 +21,7 @@
       "i18n": {
         "sourceLocale": "source",
         "locales": {
-          "es": "src/app/shared/infra/i18n/messages.es.json"
+          "es": "src/app/shared/infra/adapter/i18n/messages.es.json"
         }
       },
       "architect": {
@@ -104,7 +104,7 @@
           "options": {
             "buildTarget": "Angular-Frontend-Template:build",
             "format": "json",
-            "outputPath": "src/app/shared/infra/i18n",
+            "outputPath": "src/app/shared/infra/adapter/i18n",
             "outFile": "messages.es.json"
           }
         }
