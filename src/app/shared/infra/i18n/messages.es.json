@@ -1,0 +1,18 @@
+{
+  "locale": "es",
+  "translations": {
+    "example1.badge": " Ejemplo 1 ",
+    "example1.title": "Página de ejemplo 1",
+    "example1.description": " Esta página demuestra el theme de Tailwind del proyecto usando los colores {$START_TAG_SPAN}primary{$CLOSE_TAG_SPAN}, {$START_TAG_SPAN_1}secondary{$CLOSE_TAG_SPAN} y {$START_TAG_SPAN_2}accent{$CLOSE_TAG_SPAN}. ",
+    "example1.action": " Acción primaria ",
+    "example2.title": "Página de ejemplo 2",
+    "example2.description": " Otra vista de ejemplo usando el mismo theme de Tailwind. ",
+    "example2.primary.title": "Primary",
+    "example2.primary.description": " Color principal del theme. ",
+    "example2.secondary.title": "Secondary",
+    "example2.secondary.description": " Color de apoyo del theme. ",
+    "example2.accent.title": "Accent",
+    "example2.accent.description": " Color de énfasis del theme. ",
+    "example2.action": " Acción de énfasis "
+  }
+}
